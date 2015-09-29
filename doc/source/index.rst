@@ -15,6 +15,7 @@ Contents:
    installation
    usage
    contributing
+   specs
 
 Indices and tables
 ==================
