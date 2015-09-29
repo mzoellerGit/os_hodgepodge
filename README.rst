@@ -21,4 +21,7 @@ necessary to debug a potential issue.
 Features
 --------
 
-* TODO
+* An **easy** to use CLI interface to trigger the collection of *debug data*
+  for a potential issue.
+* The collected debug data should be **exhaustive** enough to allow a triaging
+  of the the observed issue.
