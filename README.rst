@@ -5,6 +5,9 @@ os_hodgepodge
 A means to collect all the information from an OpenStack cloud which is
 necessary to debug a potential issue.
 
+.. image:: https://drone.io/github.com/mzoellerGit/os_hodgepodge/status.png
+   :target: https://drone.io/github.com/mzoellerGit/os_hodgepodge/latest
+
 ..
     Please feel here a long description which must be at least 3 lines wrapped on
     80 cols, so that distribution package maintainers can use it in their packages.
