@@ -7,6 +7,11 @@ necessary to debug a potential issue.
 
 .. image:: https://drone.io/github.com/markuszoeller/osos/status.png
    :target: https://drone.io/github.com/markuszoeller/osos/latest
+   :alt: Build Status
+
+.. image:: https://readthedocs.org/projects/osos/badge/?version=latest
+   :target: http://osos.readthedocs.org/en/latest/?badge=latest
+   :alt: Documentation Status
 
 ..
     Please feel here a long description which must be at least 3 lines wrapped on
