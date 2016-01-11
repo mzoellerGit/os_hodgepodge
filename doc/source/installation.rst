@@ -4,9 +4,9 @@ Installation
 
 At the command line::
 
-    $ pip install os_hodgepodge
+    $ pip install osos
 
 Or, if you have virtualenvwrapper installed::
 
-    $ mkvirtualenv os_hodgepodge
-    $ pip install os_hodgepodge
+    $ mkvirtualenv osos
+    $ pip install osos

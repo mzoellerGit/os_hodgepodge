@@ -15,16 +15,16 @@
 # under the License.
 
 """
-test_os_hodgepodge
+test_osos
 ----------------------------------
 
-Tests for `os_hodgepodge` module.
+Tests for `osos` module.
 """
 
-from os_hodgepodge.tests import base
+from osos.tests import base
 
 
-class TestOs_hodgepodge(base.TestCase):
+class TestOsos(base.TestCase):
 
     def test_something(self):
         pass

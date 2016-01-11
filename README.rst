@@ -1,12 +1,12 @@
-===============================
-os_hodgepodge
-===============================
+====
+osos
+====
 
 A means to collect all the information from an OpenStack cloud which is
 necessary to debug a potential issue.
 
-.. image:: https://drone.io/github.com/mzoellerGit/os_hodgepodge/status.png
-   :target: https://drone.io/github.com/mzoellerGit/os_hodgepodge/latest
+.. image:: https://drone.io/github.com/markuszoeller/osos/status.png
+   :target: https://drone.io/github.com/markuszoeller/osos/latest
 
 ..
     Please feel here a long description which must be at least 3 lines wrapped on
@@ -14,9 +14,9 @@ necessary to debug a potential issue.
     Note that this is a hard requirement.
     
     * Free software: Apache license
-    * Documentation: http://docs.openstack.org/developer/os_hodgepodge
-    * Source: http://git.openstack.org/cgit/openstack/os_hodgepodge
-    * Bugs: http://bugs.launchpad.net/os_hodgepodge
+    * Documentation: http://docs.openstack.org/developer/osos
+    * Source: http://git.openstack.org/cgit/openstack/osos
+    * Bugs: http://bugs.launchpad.net/osos
 
 Features
 --------

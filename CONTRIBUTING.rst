@@ -17,4 +17,4 @@ ping markus_z in IRC freenode
     
     Bugs should be filed on Launchpad, not GitHub:
     
-       https://bugs.launchpad.net/os_hodgepodge
+       https://bugs.launchpad.net/osos

@@ -16,4 +16,4 @@ import pbr.version
 
 
 __version__ = pbr.version.VersionInfo(
-    'os_hodgepodge').version_string()
+    'osos').version_string()

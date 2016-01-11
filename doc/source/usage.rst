@@ -2,6 +2,6 @@
 Usage
 ========
 
-To use os_hodgepodge in a project::
+To use osos in a project::
 
-    import os_hodgepodge
+    import osos
